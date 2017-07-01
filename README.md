@@ -1,2 +1,2 @@
-# Task description:
+# Task description.
 Please write a Python function that takes a sentence and reverses the words in it. For example: "This is a sentence" => "sentence a is This". You can assume the input sentence will only have letters and spaces.
